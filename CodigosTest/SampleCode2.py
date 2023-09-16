@@ -7,7 +7,7 @@ from sklearn import linear_model
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-path_csv = "peso_estatura_genero.csv"
+path_csv = "../peso_estatura_genero.csv"
 
 def main():
     df = pd.read_csv(path_csv)

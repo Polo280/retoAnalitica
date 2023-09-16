@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-path_csv = "peso_estatura_genero.csv"
+path_csv = "../peso_estatura_genero.csv"
 path_out = "OutputSample.txt"
 
 def main():

@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d169ee-4088-475e-9097-3fe90eeea6fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OutputAct2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActividadPlots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputAct3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Guia_CL_y_GIT.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_K_means.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estadistica-basica.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Estadistica-basica.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratorio GitHub.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratorio Ramas.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutputSample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OutputSample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/SampleCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retoAnalitica/K-means_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/retoAnalitica/K-means_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObtEstadisticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodigosTest/ObtEstadisticas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CodigosTest/Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputAct2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputSample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CodigosTest/OutputSample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodigosTest/SampleCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleCode2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodigosTest/SampleCode2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +46,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorgl\OneDrive\Escritorio\retoAnalitica\CodigosTest" />
       <recent name="C:\Users\jorgl\OneDrive\Escritorio\retoAnalitica\TC1002S_semanaTec" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Actividad2">
+  <component name="RunManager" selected="Python.ActividadPlots">
     <configuration name="Actividad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="retoAnalitica" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actividad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ActividadPlots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="retoAnalitica" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ActividadPlots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SampleCode (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SampleCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="retoAnalitica" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SampleCode.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jorgl\OneDrive\Escritorio\retoAnalitica\CodigosTest\SampleCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,34 +156,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SampleCode2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="retoAnalitica" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jorgl\OneDrive\Escritorio\retoAnalitica\TC1002S_semanaTec\SampleCode2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ActividadPlots" />
         <item itemvalue="Python.Actividad2" />
         <item itemvalue="Python.SampleCode (2)" />
         <item itemvalue="Python.SampleCode2 (1)" />
         <item itemvalue="Python.SampleCode (1)" />
-        <item itemvalue="Python.SampleCode2" />
       </list>
     </recent_temporary>
   </component>

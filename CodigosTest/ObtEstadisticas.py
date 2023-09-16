@@ -1,7 +1,7 @@
 import pandas as pd
 # Mean mode std dev mediana
 
-path_csv = "peso_estatura_genero.csv"
+path_csv = "../peso_estatura_genero.csv"
 path_out = "Output.txt"
 
 def main():
