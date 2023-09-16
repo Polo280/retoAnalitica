@@ -1,0 +1,77 @@
+DESCRIBE
+                 Id           Age        Income    Emp_length        Amount          Rate        Status  Percent_income   Cred_length
+count  32581.000000  32581.000000  3.258100e+04  31686.000000  32581.000000  29465.000000  32581.000000    32581.000000  32581.000000
+mean   16290.006139     27.734600  6.607485e+04      4.789686   9589.371106     11.011695      0.218164        0.170203      5.804211
+std     9405.479594      6.348078  6.198312e+04      4.142630   6322.086646      3.240459      0.413006        0.106782      4.055001
+min        0.000000     20.000000  4.000000e+03      0.000000    500.000000      5.420000      0.000000        0.000000      2.000000
+25%     8145.000000     23.000000  3.850000e+04      2.000000   5000.000000      7.900000      0.000000        0.090000      3.000000
+50%    16290.000000     26.000000  5.500000e+04      4.000000   8000.000000     10.990000      0.000000        0.150000      4.000000
+75%    24435.000000     30.000000  7.920000e+04      7.000000  12200.000000     13.470000      0.000000        0.230000      8.000000
+max    32780.000000    144.000000  6.000000e+06    123.000000  35000.000000     23.220000      1.000000        0.830000     30.000000
+
+Edad max: 144
+Edad min: 20
+Rango: 124
+
+Ingreso maximo: 6000000
+Ingreso minimo: 4000
+Rango: 5996000
+
+Prestamo maximo: 35000
+Prestamo minimo: 500
+Rango: 34500
+
+Tasa maxima: 23.22
+Tasa minima: 5.42
+Rango: 17.799999999999997
+
+Percentil ingreso max: 0.83
+Percentil ingreso min: 0.0
+Rango: 0.83
+
+Longitud historial cred max: 30
+Longitud historial cred min: 2
+Rango: 28
+
+
+TIPOS DE DATOS
+Id                  int64
+Age                 int64
+Income              int64
+Home               object
+Emp_length        float64
+Intent             object
+Amount              int64
+Rate              float64
+Status              int64
+Percent_income    float64
+Default            object
+Cred_length         int64
+dtype: object
+
+ESTADISTICOS ADICIONALES
+Edad
+Media: 27.73459992019889
+Mediana: 26.0
+Desviacion estandar: 6.348078419225359
+
+Ingreso
+Media: 66074.84846996715
+Mediana: 55000.0
+Desviacion estandar: 61983.11916815907
+Prestamo cantidad
+Media: 9589.371105859243
+Mediana: 8000.0
+Desviacion estandar: 6322.086645792259
+Tasa de interes
+Media: 11.011694892245036
+Mediana: 10.99
+Desviacion estandar: 3.2404594649559466
+Percentil Ingreso
+Media: 0.1702034928332464
+Mediana: 0.15
+Desviacion estandar: 0.10678175634492382
+Longitud historial
+Media: 5.804211043246064
+Mediana: 4.0
+Desviacion estandar: 4.055001164712727

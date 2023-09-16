@@ -8,3 +8,29 @@ min       54.263133     64.700127
 50%       66.318070    161.212928
 75%       69.174262    187.169525
 max       78.998742    269.989698
+
+Peso maximo: 269.9896985
+Peso minimo: 64.70012671
+
+Estatura maxima: 78.99874235
+Estatura minima: 54.26313333
+
+Rango de peso: 205.28957178999997
+Rango de estatura: 24.73560902
+
+TIPOS DE DATOS
+Genero       object
+Estatura    float64
+Peso        float64
+dtype: object
+
+ESTADISTICOS ADICIONALES
+Peso
+Media: 161.44035683343
+Mediana: 161.21292770000002
+Desviacion estandar: 32.108439007035464
+
+Estatura
+Media: 66.367559754866
+Mediana: 66.31807008
+Desviacion estandar: 3.847528120795573
